@@ -1,0 +1,226 @@
+Build a complete, polished, responsive website for an influencer marketing agency called “iSociable.”
+
+BUSINESS OVERVIEW
+
+iSociable helps brands connect with the right content creators and influencers to build awareness, earn trust, and generate measurable growth. The company should feel modern, creative, professional, trustworthy, and results-focused.
+
+DESIGN DIRECTION
+
+Create a sleek, premium design that captures attention without overstimulating the visitor.
+
+The design should include:
+
+* A clean and spacious layout with generous white space
+* Strong visual hierarchy and short, readable sections
+* Modern typography with bold headings and simple body text
+* A refined color palette using deep navy or near-black, warm white, and one vibrant accent color such as electric blue, violet, or coral
+* Soft gradients used sparingly
+* Rounded cards and buttons with subtle shadows
+* High-quality imagery related to creators, social media, brand partnerships, and content production
+* Smooth scrolling and subtle entrance animations
+* Small hover effects on buttons, cards, and navigation links
+* No excessive animations, flashing elements, clutter, or overly bright colors
+* A premium editorial feel rather than a generic marketing template
+
+The website must be fully responsive and look excellent on desktops, tablets, and mobile phones.
+
+HEADER
+
+Create a clean sticky navigation bar with:
+
+* iSociable logo or text-based wordmark
+* Home
+* Services
+* How It Works
+* About
+* Contact
+* A prominent “Let’s Work Together” button
+
+On mobile, use a smooth, accessible hamburger menu.
+
+HERO SECTION
+
+Create a memorable hero section with a strong headline such as:
+
+“Influence That Creates Real Impact.”
+
+Supporting text:
+
+“iSociable connects ambitious brands with the right creators to build authentic campaigns, reach engaged audiences, and deliver measurable results.”
+
+Include two call-to-action buttons:
+
+* “Start a Campaign”
+* “Join as a Creator”
+
+Add a sophisticated visual on the right side showing a creator, social media campaign content, or layered social-media-style cards. Keep the composition elegant and uncluttered.
+
+TRUST SECTION
+
+Under the hero, add a subtle trust statement:
+
+“Connecting brands and creators through campaigns built for real engagement.”
+
+Include a row of tasteful placeholder brand logos that can be replaced later. Display them in a muted monochrome style.
+
+SERVICES SECTION
+
+Create a section titled:
+
+“Everything You Need to Make Influence Work”
+
+Include attractive cards for these services:
+
+1. Influencer Strategy
+   Custom campaign strategies based on each brand’s audience, goals, and budget.
+
+2. Creator Sourcing
+   Finding and carefully evaluating creators who genuinely align with the brand.
+
+3. Campaign Management
+   Managing outreach, negotiations, content approvals, timelines, and publishing.
+
+4. Content Creation
+   Helping brands produce authentic social content that attracts attention and inspires action.
+
+5. Performance Tracking
+   Monitoring engagement, reach, conversions, and overall campaign performance.
+
+6. Brand Partnerships
+   Building meaningful, long-term relationships between brands and trusted creators.
+
+HOW IT WORKS SECTION
+
+Create a simple four-step process:
+
+1. Tell Us Your Goals
+   We learn about the brand, audience, campaign objectives, and budget.
+
+2. Meet the Right Creators
+   We identify creators whose audience and style align with the brand.
+
+3. Launch the Campaign
+   We coordinate the content, communication, scheduling, and approvals.
+
+4. Measure the Impact
+   We analyze campaign results and provide clear performance insights.
+
+Use a clean timeline or numbered card layout.
+
+WHY ISOCIABLE SECTION
+
+Create a visually distinct section explaining why clients should choose iSociable.
+
+Include these benefits:
+
+* Carefully selected creators
+* Authentic audience connections
+* End-to-end campaign management
+* Clear communication
+* Data-informed decisions
+* Strategies tailored to each brand
+
+Use a headline such as:
+
+“More Than Reach. We Build Real Connections.”
+
+FEATURED CAMPAIGNS SECTION
+
+Add a portfolio or case-study section with three placeholder campaign cards. Each card should include:
+
+* Campaign image
+* Industry or category
+* Short campaign description
+* Key result or metric
+* “View Case Study” link
+
+Clearly label placeholder statistics so they can be replaced later. Do not present invented results as real client achievements.
+
+BRANDS AND CREATORS SECTION
+
+Create a split section with two paths.
+
+For Brands:
+
+“Reach the People Who Matter”
+
+Explain how iSociable helps brands discover creators, manage campaigns, and achieve meaningful results.
+
+Button: “Start a Campaign”
+
+For Creators:
+
+“Turn Your Influence Into Opportunity”
+
+Invite creators to join the iSociable network and connect with brands that match their audience and values.
+
+Button: “Join Our Creator Network”
+
+TESTIMONIALS
+
+Create a clean testimonial section with three placeholder testimonials. Clearly mark the content as placeholder text so it is not mistaken for a real customer endorsement.
+
+ABOUT SECTION
+
+Use this draft copy:
+
+“iSociable was created to make influencer marketing more personal, strategic, and effective. We believe successful partnerships begin with genuine alignment—not just follower counts. By bringing together the right brands, creators, and ideas, we build campaigns that feel authentic and produce meaningful results.”
+
+Include a modern team or behind-the-scenes image placeholder.
+
+CONTACT SECTION
+
+Create a strong closing call-to-action:
+
+“Ready to Make Your Brand More Sociable?”
+
+Supporting text:
+
+“Tell us about your goals, and let’s explore how the right creators can help your brand grow.”
+
+Include a professional contact form with:
+
+* Name
+* Company or brand
+* Email
+* Phone number, optional
+* Estimated campaign budget
+* Are you a brand or creator?
+* Services needed
+* Message
+* Submit button
+
+Add proper form validation, clear success and error states, and an easy-to-replace form submission endpoint. Do not claim the message was sent unless the form is connected to a working service.
+
+FOOTER
+
+Include:
+
+* iSociable logo
+* Short company description
+* Navigation links
+* Services links
+* Instagram, TikTok, LinkedIn, and YouTube icons
+* Email placeholder
+* Privacy Policy
+* Terms of Service
+* Current year copyright notice
+
+TECHNICAL REQUIREMENTS
+
+* Build the website with clean, organized, reusable components
+* Use accessible semantic HTML
+* Make text and controls easy to read and navigate
+* Include descriptive alt text for images
+* Ensure strong color contrast
+* Optimize images and performance
+* Avoid unnecessary dependencies
+* Add basic SEO metadata, including title, description, and social-sharing metadata
+* Use smooth but restrained animations
+* Respect the user’s reduced-motion settings
+* Make every button and navigation link functional
+* Use placeholder content only where real company information is unavailable
+* Do not invent clients, partnerships, testimonials, or business statistics
+* Add clear code comments showing where contact information, images, social links, and form settings should be replaced
+
+The finished website should feel credible enough for an established agency while still feeling creative, modern, and memorable. It should immediately communicate what iSociable does and guide visitors toward either starting a campaign or joining the creator network.
