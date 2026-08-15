@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">iSociable logo</title>
+  <desc id="desc">Centered purple-and-navy iSociable brand mark on a transparent square canvas.</desc>
+  <defs>
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7440ff"/>
+      <stop offset="0.5" stop-color="#5420f4"/>
+      <stop offset="1" stop-color="#7c3cff"/>
+    </linearGradient>
+    <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071b3d"/>
+      <stop offset="0.55" stop-color="#052554"/>
+      <stop offset="1" stop-color="#031630"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <circle cx="198" cy="68" r="46" fill="url(#purple)"/>
+    <circle cx="105" cy="323" r="46" fill="url(#purple)"/>
+    <circle cx="405" cy="374" r="46" fill="url(#purple)"/>
+
+    <path d="M159 105 C112 153 91 215 93 267"
+          fill="none" stroke="url(#purple)" stroke-width="18" stroke-linecap="butt"/>
+    <path d="M145 361 C215 419 305 437 354 410"
+          fill="none" stroke="url(#purple)" stroke-width="18" stroke-linecap="butt"/>
+
+    <circle cx="270" cy="165" r="31" fill="url(#navy)"/>
+    <path d="M244 220 H283 V326 C283 349 293 358 313 358 H325
+             L318 389 C309 392 298 394 287 394
+             C257 394 244 373 244 338 Z"
+          fill="url(#navy)"/>
+  </g>
+</svg>
